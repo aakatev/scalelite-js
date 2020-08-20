@@ -4,10 +4,10 @@ JavaScript wrapper for [Scalelite API](https://github.com/blindsidenetworks/scal
 
 ## Installation
 
-Package is experimental, and yet to be published to npm. For now, install directly from GitHub using npm:
+Using npm
 
 ```bash
-npm install https://github.com/aakatev/scalelite-js.git
+npm install scalelite-js
 ```
 
 You will also need approriate version of scalelite api. You can find it on my [GitHub](https://github.com/aakatev/scalelite/tree/develop) or [DockerHub](https://hub.docker.com/r/aakatev/scalelite).
