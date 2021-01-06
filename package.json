@@ -24,7 +24,7 @@
   },
   "homepage": "https://github.com/aakatev/bigbluebutton-js/#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "fast-xml-parser": "^3.17.2",
     "hash.js": "^1.1.7",
     "query-string": "^6.13.1"
